@@ -8,6 +8,7 @@ Login with your email or username.
 ## Requirements
 * phpBB 3.1-dev or higher
 * PHP 5.3 or higher
+* Helper (https://github.com/ForumHulp/helper)
 
 ## Installation
 You can install this on the latest copy of the develop branch ([phpBB 3.1-dev](https://github.com/phpbb/phpbb3)) by doing the following:
